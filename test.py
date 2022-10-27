@@ -1,0 +1,1 @@
+print("ye ek python ka page hai")
